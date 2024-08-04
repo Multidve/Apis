@@ -1,7 +1,7 @@
 {
     "sources": [
         {
-            "type": "direct",
+            "type": "functionOne",
             "idioma": "not_found",
             "url": "https://www.cuevana3.eu/ver-pelicula/deadpool-and-wolverine"
         }
