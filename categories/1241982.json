@@ -4,6 +4,11 @@
             "type": "Tuja",
             "idioma": "Boyaco",
             "url": "pruebasss"
+        },
+        {
+            "type": "Prueba",
+            "idioma": "Latino",
+            "url": "Moana"
         }
     ]
 }
