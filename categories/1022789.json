@@ -19,6 +19,16 @@
             "type": "direct",
             "idioma": "Chino",
             "url": "https://pruebas.tech/index.m3u8"
+        },
+        {
+            "type": "prueba 1",
+            "idioma": "prueba 1",
+            "url": "prueba 1"
+        },
+        {
+            "type": "prueba 2",
+            "idioma": "",
+            "url": "prueba 2"
         }
     ]
 }
