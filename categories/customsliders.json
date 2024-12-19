@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Gravity Falls",
+        "banner": "https://filosofiaenlared.com/wp-content/uploads/2024/01/Gravity_Falls-Wittgestein-realidad-simbolos-lenguaje.jpg",
+        "backdrop_path": "https://filosofiaenlared.com/wp-content/uploads/2024/01/Gravity_Falls-Wittgestein-realidad-simbolos-lenguaje.jpg",
+        "logo_path": "https://filosofiaenlared.com/wp-content/uploads/2024/01/Gravity_Falls-Wittgestein-realidad-simbolos-lenguaje.jpg",
+        "description": "Esto es una prueba api, con github y demas.",
+        "content_type": 1,
+        "content_id": 12345,
+        "url": "https://prueba.com/pruebas",
+        "status": 1
+    }
+]
